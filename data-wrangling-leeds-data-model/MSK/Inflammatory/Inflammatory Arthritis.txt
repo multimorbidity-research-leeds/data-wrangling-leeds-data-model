@@ -1,0 +1,166 @@
+Coding System        Code            Condition                                                                       
+==========================================================================================
+ICD-10               M05             Seropositive rheumatoid arthritis                                               
+ICD-10               M06             Other rheumatoid arthritis                                                      
+ICD-10               M07             Psoriatic and enteropathic arthropathies                                        
+ICD-10               M12.0           Chronic postrheumatic arthropathy [Jaccoud]                                     
+ICD-10               M12.3           Palindromic rheumatism                                                          
+ICD-10               M35.3           Polymyalgia rheumatica                                                          
+ICD-10               M45             Ankylosing spondylitis                                                          
+ICD-10               M46.8           Other specified inflammatory spondylopathies                                    
+ICD-10               M46.9           Inflammatory spondylopathy, unspecified                                         
+Read                 M1600           Psoriasis spondylitica                                                          
+Read                 Nyu1C           [X]Gt arthpth/enz d+o inh d CE                                                  
+Read                 2377            O/E - ankyl.spondyl.chest def.                                                  
+Read                 388p.           BASDAI ankylosing spond index                                                   
+Read                 388p0           BASFI                                                                           
+Read                 38QL.           BASMI                                                                           
+Read                 N100.           Ankylosing spondylitis                                                          
+Read                 N117.           Ankylosing verteb hyperostosis                                                  
+Read                 38Va.           PsAID-9 questionnaire                                                           
+Read                 M160.           Psoriatic arthropathy                                                           
+Read                 M1601           Dist interphal psoriat arthrop                                                  
+Read                 M1602           Arthritis mutilans                                                              
+Read                 M160z           Psoriatic arthropathy NOS                                                       
+Read                 Nyu13           [X]Oth psoriatic arthropathies                                                  
+Read                 14G1.           H/O: rheumatoid arthritis                                                       
+Read                 38DZ.           Diseas activ scor rheu arthrit                                                  
+Read                 38DZ0           DAS 28 joint rheumatoid arthri                                                  
+Read                 38Vs.           RAID questionnaire                                                              
+Read                 66HB0           Rheumatoid arthritis annul rev                                                  
+Read                 7P203           Del rehab rheumatoid arthritis                                                  
+Read                 9hR..           Exp rep: rheumtd arth qual ind                                                  
+Read                 9hR0.           Ex rhm art qual ind: pt unsuit                                                  
+Read                 9hR1.           Ex rheum arth qua ind: inf dis                                                  
+Read                 9mM..           RA monitoring invitation                                                        
+Read                 9mM0.           RA monitor invitation 1st lett                                                  
+Read                 9mM1.           RA monitor invitation 2nd lett                                                  
+Read                 9mM2.           RA monitor invitation 3rd lett                                                  
+Read                 9mM3.           RA monitoring verbal invitatin                                                  
+Read                 9mM4.           RA monitor telephone invitatin                                                  
+Read                 F3712           Polyneuropathy+rheumatoid arth                                                  
+Read                 F3964           Myopathy+rheumatoid arthritis                                                   
+Read                 N040.           Rheumatoid arthritis                                                            
+Read                 N0400           Rheumatoid arthritis-Cx spine                                                   
+Read                 N0401           Oth rheumatoid arthritis-spine                                                  
+Read                 N0402           Rheumatoid arthritis-shoulder                                                   
+Read                 N0403           Rheumatoid arthr-sternoclav jt                                                  
+Read                 N0404           Rheumatoid arthr-acromioclav j                                                  
+Read                 N0405           Rheumatoid arthritis of elbow                                                   
+Read                 N0406           Rheumatoid arthritis-dist RUJ                                                   
+Read                 N0407           Rheumatoid arthritis of wrist                                                   
+Read                 N0408           Rheumatoid arthritis-MCP joint                                                  
+Read                 N0409           Rheumatoid arthritis-PIPJ-fing                                                  
+Read                 N040A           Rheumatoid arthritis-DIPJ-fing                                                  
+Read                 N040B           Rheumatoid arthritis of hip                                                     
+Read                 N040C           Rheumatoid arthritis of SIJ                                                     
+Read                 N040D           Rheumatoid arthritis of knee                                                    
+Read                 N040E           Rheumatoid arthr of tib-fib jt                                                  
+Read                 N040F           Rheumatoid arthritis of ankle                                                   
+Read                 N040G           Rheumatoid arthr-subtalar jnt                                                   
+Read                 N040H           Rheumatoid arthr-talonav joint                                                  
+Read                 N040J           Rheumatoid arthr-oth tarsal jt                                                  
+Read                 N040K           Rheumatoid arthr-1st MTP joint                                                  
+Read                 N040L           Rheumatoid arthr-lesser MTP jt                                                  
+Read                 N040M           Rheumatoid arthr-IP joint-toe                                                   
+Read                 N040P           Seronegative rheumat arthritis                                                  
+Read                 N040S           Rheumat arthr - multiple joint                                                  
+Read                 N040T           Flare of rheumatoid arthritis                                                   
+Read                 N041.           Felty's syndrome                                                                
+Read                 N042.           Other rh.arthr.+visc/syst.dis.                                                  
+Read                 N042z           Rh.arthr.+visc/syst.dis.NOS                                                     
+Read                 N047.           Seropositive errosive RA                                                        
+Read                 N04X.           Seroposit rheum arthr, unsp                                                     
+Read                 Nyu10           [X]Rheum arthrit+inv/o org/sys                                                  
+Read                 Nyu11           [X]O sero+ve rheumat arthritis                                                  
+Read                 Nyu12           [X]Oth spcf rheumatd arthritis                                                  
+Read                 Nyu1G           [X]Seroposit rheum arthr, unsp                                                  
+Read                 N040.00         Rheumatoid arthritis                                                            
+Read                 12I1.00         FH: Rheumatoid arthritis                                                        
+Read                 66H..13         Rheumatoid arthrit. monitoring                                                  
+Read                 N040P00         Seronegative rheumatoid arthritis                                               
+Read                 N040T00         Flare of rheumatoid arthritis                                                   
+Read                 68F1.00         Rheumatoid arthritis screen                                                     
+Read                 N04X.00         Seropositive rheumatoid arthritis, unspecified                                  
+Read                 N04..00         Rheumatoid arthritis and other inflammatory polyarthropathy                     
+Read                 M160.11         Psoriatic arthritis                                                             
+Read                 N047.00         Seropositive errosive rheumatoid arthritis                                      
+Read                 ZV7y100         [V]Screening for rheumatoid arthritis                                           
+Read                 N04y012         Fibrosing alveolitis associated with rheumatoid arthritis                       
+Read                 N040S00         Rheumatoid arthritis - multiple joint                                           
+Read                 Nyu0000         [X]Other streptococcal arthritis and polyarthritis                              
+Read                 N040D00         Rheumatoid arthritis of knee                                                    
+Read                 N040700         Rheumatoid arthritis of wrist                                                   
+Read                 N040800         Rheumatoid arthritis of MCP joint                                               
+Read                 N040F00         Rheumatoid arthritis of ankle                                                   
+Read                 N040100         Other rheumatoid arthritis of spine                                             
+Read                 N040200         Rheumatoid arthritis of shoulder                                                
+Read                 N040900         Rheumatoid arthritis of PIP joint of finger                                     
+Read                 N040K00         Rheumatoid arthritis of 1st MTP joint                                           
+Read                 N040500         Rheumatoid arthritis of elbow                                                   
+Read                 N040B00         Rheumatoid arthritis of hip                                                     
+Read                 F396400         Myopathy due to rheumatoid arthritis                                            
+Read                 Nyu1G00         [X]Seropositive rheumatoid arthritis, unspecified                               
+Read                 N010A00         Arthritis in Lyme disease                                                       
+Read                 N038000         Postmeningococcal arthritis                                                     
+Read                 N040000         Rheumatoid arthritis of cervical spine                                          
+Read                 N040A00         Rheumatoid arthritis of DIP joint of finger                                     
+Read                 43b9.00         Rheumatoid arthritis particle agglutination test                                
+Read                 N018.00         Tuberculous arthritis                                                           
+Read                 Nyu0200         [X]Arthritis in other infectious and parasitic diseases CE                      
+Read                 Nyu1100         [X]Other seropositive rheumatoid arthritis                                      
+Read                 Nyu1200         [X]Other specified rheumatoid arthritis                                         
+Read                 N040C00         Rheumatoid arthritis of sacro-iliac joint                                       
+Read                 N040H00         Rheumatoid arthritis of talonavicular joint                                     
+Read                 N040J00         Rheumatoid arthritis of other tarsal joint                                      
+Read                 N03x400         Arthritis associated with other disease, dist rad-uln joint                     
+Read                 N03xA00         Arthritis associated with other disease, sacro-iliac joint                      
+Read                 N03xG00         Arthritis associated with other disease, other tarsal joint                     
+Read                 N040400         Rheumatoid arthritis of acromioclavicular joint                                 
+Read                 N040600         Rheumatoid arthritis of distal radio-ulnar joint                                
+Read                 N040G00         Rheumatoid arthritis of subtalar joint                                          
+Read                 N040L00         Rheumatoid arthritis of lesser MTP joint                                        
+Read                 N060.11         Endemic polyarthritis                                                           
+Read                 N005.           Adult Still's Disease                                                           
+Read                 N04y2           Adult-onset Still's disease                                                     
+Read                 N040Q           Rheumatoid bursitis                                                             
+Read                 N0422           Rheumatoid nodule                                                               
+Read                 N0421           Rheumatoid lung disease                                                         
+Read                 N040R           Rheumatoid nodule                                                               
+Read                 N040N           Rheumatoid vasculitis                                                           
+Read                 N0420           Rheumatic carditis                                                              
+Read                 N20..           Polymyalgia rheumatica                                                          
+Read                 N200.           Gnt cell arter+polymyalg rheum                                                  
+Read                 2G27.           O/E-hands-rheumatoid spindling                                                  
+Read                 G5y8.           Rheumatoid myocarditis                                                          
+Read                 G5yA.           Rheumatoid carditis                                                             
+Read                 X103Y           Rheumatoid pneumoconiosis                                                       
+Read                 X701h           Seropositive rheumatoid arthritis                                               
+Read                 X701i           Seronegative rheumatoid arthritis                                               
+Read                 X701j           Rheumatoid arthritis with organ / system involvement                            
+Read                 X701k           Fibrosing alveolitis associated with rheumatoid arthritis                       
+Read                 X701l           Rheumatoid vasculitis                                                           
+Read                 X701m           Rheumatoid arthritis with multisystem involvement                               
+Read                 X705t           Nailfold rheumatoid vasculitis                                                  
+Read                 X705u           Systemic rheumatoid vasculitis                                                  
+Read                 X705v           Necrotising rheumatoid vasculitis                                               
+Read                 XE1DU           Rheumatoid arthritis and other inflammatory polyarthropathy                     
+Read                 XM1XV           Rheumatoid arthritis monitoring                                                 
+Read                 Xa3gL           Rheumatoid arthritis - multiple joint                                           
+Read                 Xa3gM           Rheumatoid arthritis - hand joint                                               
+Read                 Xa3gN           Rheumatoid arthritis - ankle/foot                                               
+Read                 Xa3gO           Rheumatoid arthritis - other joint                                              
+Read                 Xa3gP           Rheumatoid arthritis NOS                                                        
+Read                 XaBMO           Seropositive errosive rheumatoid arthritis                                      
+Read                 XaZdB           Rheumatoid arthritis annual review                                              
+Read                 XaaWW           Rheumatoid arthritis monitoring invitation                                      
+Read                 XaaWt           Rheumatoid arthritis monitoring invitation first letter                         
+Read                 XaaWu           Rheumatoid arthritis monitoring invitation second letter                        
+Read                 XaaWv           Rheumatoid arthritis monitoring invitation third letter                         
+Read                 XaaWw           Rheumatoid arthritis monitoring verbal invitation                               
+Read                 XaaWx           Rheumatoid arthritis monitoring telephone invitation                            
+Read                 Xafj8           Rheum arth monitor invitation by SMS (short message service)                    
+Read                 Xafj9           Rheumatoid arthritis monitring SMS text msg first invitation                    
+Read                 XafjA           Rheumatoid arthritis monitoring SMS text mesg 2nd invitation                    
+Read                 XafjB           Rheumatoid arthritis monitoring SMS text mesg 3rd invitation                    
+Read                 XagLZ           Rheumatoid arthritis monitoring invitation email                                

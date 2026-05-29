@@ -1,0 +1,55 @@
+Coding System        Code            Condition                                                                       
+==========================================================================================
+ICD-10               M10             Gout                                                                            
+Read                 1443            H/O: gout                                                                       
+Read                 2D52.           O/E - auricle of ear - tophi                                                    
+Read                 669..           Gout monitoring                                                                 
+Read                 6691            Initial gout assessment                                                         
+Read                 6692            Follow-up gout assessment                                                       
+Read                 6693            Joints gout affected                                                            
+Read                 6695            Date gout treatment started                                                     
+Read                 6696            Date of last gout attack                                                        
+Read                 6697            Gout associated problems                                                        
+Read                 6698            Gout drug side effects                                                          
+Read                 6699            Gout treatment changed                                                          
+Read                 669A.           Date gout treatment stopped                                                     
+Read                 669Z.           Gout monitoring NOS                                                             
+Read                 C34..           Gout                                                                            
+Read                 C340.           Gouty arthropathy                                                               
+Read                 C341.           Gouty nephropathy                                                               
+Read                 C3410           Gouty nephropathy unspecified                                                   
+Read                 C341z           Gouty nephropathy NOS                                                           
+Read                 C342.           Idiopathic gout                                                                 
+Read                 C343.           Lead-induced gout                                                               
+Read                 C344.           Drug-induced gout                                                               
+Read                 C345.           Gout due impairment renal func                                                  
+Read                 C346.           Acute exacerbation of gout                                                      
+Read                 C34y.           Other specified gouty manifest                                                  
+Read                 C34y0           Gouty tophi of ear                                                              
+Read                 C34y1           Gouty tophi of heart                                                            
+Read                 C34y2           Gouty tophi of other sites                                                      
+Read                 C34y3           Gouty iritis                                                                    
+Read                 C34y4           Gouty neuritis                                                                  
+Read                 C34y5           Gouty tophi of hand                                                             
+Read                 C34y6           Gouty tophi of toe                                                              
+Read                 C34yz           Other specified gout NOS                                                        
+Read                 C34z.           Gout NOS                                                                        
+Read                 G5573           Gouty tophi of heart                                                            
+Read                 N023.           Gouty arthritis                                                                 
+Read                 N0230           Gouty arthritis-site unspecif.                                                  
+Read                 N0231           Gouty arthritis-shoulder                                                        
+Read                 N0232           Gouty arthritis-upper arm                                                       
+Read                 N0233           Gouty arthritis-forearm                                                         
+Read                 N0234           Gouty arthritis-hand                                                            
+Read                 N0235           Gouty arthritis-pelvic/thigh                                                    
+Read                 N0236           Gouty arthritis-lower leg                                                       
+Read                 N0237           Gouty arthritis-ankle/foot                                                      
+Read                 N0238           Gouty arthritis of toe                                                          
+Read                 N023x           Gouty arthritis-multiple sites                                                  
+Read                 N023y           Gouty arthritis-other specif.                                                   
+Read                 N023z           Gouty arthritis-NOS                                                             
+Read                 Nyu17           [X]Other secondary gout                                                         
+Read                 N023.00         Gouty arthritis                                                                 
+Read                 N023z00         Gouty arthritis NOS                                                             
+Read                 N023x00         Gouty arthritis of multiple sites                                               
+Read                 N023300         Gouty arthritis of the forearm                                                  

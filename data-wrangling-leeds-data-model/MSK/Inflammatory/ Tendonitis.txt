@@ -1,0 +1,10 @@
+Coding System        Code            Condition                                                                       
+==========================================================================================
+ICD-10               M70.3           Other bursitis of elbow                                                         
+Read                 N063z00         Climacteric arthritis NOS                                                       
+Read                 Nyu0100         [X]Arthritis+polyarthritis due/other specfd bacterial agents                    
+Read                 N063000         Climacteric arthritis of unspecified site                                       
+Read                 N063200         Climacteric arthritis of the upper arm                                          
+Read                 N063700         Climacteric arthritis of the ankle and foot                                     
+Read                 N063800         Climacteric arthritis of other specified site                                   
+Read                 N063900         Climacteric arthritis of multiple sites                                         
