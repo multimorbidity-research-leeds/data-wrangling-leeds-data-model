@@ -8,8 +8,12 @@ def clean(name):
 # Load Excel
 df = pd.read_excel(r"C:\Users\hssean\OneDrive - University of Leeds\Desktop\LIDA\ICB- MLTC\Github\Diagnosis codes\msk_codes.xlsx")
 print(df.columns)
+# Folder this script lives in
+SCRIPT_DIR = Path(__file__).resolve().parent
 
-BASE_DIR = Path("MSK")
+# Always create/update here
+BASE_DIR = SCRIPT_DIR / "MSK"
+
 
 grouped = df.groupby(["inflammation_type", "category"])
 
@@ -28,5 +32,6 @@ for (infl_type, category), group in grouped:
             f.write(f"{row['coding_system']:<20} {row['code']:<15} {row['condition']:<80}\n")
 
 print("Done")
+print("Saved to:", BASE_DIR)
 
 print(df[['coding_system', 'code', 'condition']].head(10))
