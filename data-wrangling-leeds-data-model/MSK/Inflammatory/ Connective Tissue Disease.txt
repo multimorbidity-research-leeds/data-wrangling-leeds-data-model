@@ -1,0 +1,11 @@
+Coding System        Code            Condition                                                                       
+==========================================================================================
+ICD-10               M32             Systemic lupus erythematosus                                                    
+ICD-10               M33             DermatopolymyositisÃ‚Â                                                          
+ICD-10               M34             Systemic sclerosis                                                              
+ICD-10               M35.0           Sicca syndrome [Sjögren]                                                        
+ICD-10               M35.2           Behçet's disease                                                                
+ICD-10               M35.4           Diffuse (eosinophilic) fasciitis                                                
+ICD-10               M35.6           Relapsing panniculitis [Weber-Christian]                                        
+ICD-10               M60             Myositis                                                                        
+Read                 C32y200         Lipoid dermatoarthritis                                                         

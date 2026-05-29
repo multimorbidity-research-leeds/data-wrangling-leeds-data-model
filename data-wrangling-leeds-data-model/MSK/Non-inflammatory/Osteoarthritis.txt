@@ -1,0 +1,328 @@
+Coding System        Code            Condition                                                                       
+==========================================================================================
+Read                 N05..11         Osteoarthritis                                                                  
+Read                 N05..00         Osteoarthritis and allied disorders                                             
+Read                 N05z611         Knee osteoarthritis NOS                                                         
+Read                 N05zL00         Osteoarthritis NOS, of knee                                                     
+Read                 N05z.00         Osteoarthritis NOS                                                              
+Read                 N053512         Hip osteoarthitis NOS                                                           
+Read                 N050.00         Generalised osteoarthritis - OA                                                 
+Read                 N05z511         Hip osteoarthritis NOS                                                          
+Read                 N05z400         Osteoarthritis NOS, of the hand                                                 
+Read                 N05z600         Osteoarthritis NOS, of the lower leg                                            
+Read                 N05z500         Osteoarthritis NOS, pelvic region/thigh                                         
+Read                 N05zJ00         Osteoarthritis NOS, of hip                                                      
+Read                 N050200         Generalised osteoarthritis of multiple sites                                    
+Read                 N05z100         Osteoarthritis NOS, of shoulder region                                          
+Read                 N053611         Patellofemoral osteoarthritis                                                   
+Read                 N05z412         Thumb osteoarthritis NOS                                                        
+Read                 N053700         Localised osteoarthritis, unspecified, of the ankle and foot                    
+Read                 N050111         Heberdens' nodes                                                                
+Read                 N05z900         Osteoarthritis NOS, of shoulder                                                 
+Read                 N05zN00         Osteoarthritis NOS, of ankle                                                    
+Read                 N05zz00         Osteoarthritis NOS                                                              
+Read                 N051600         Localised, primary osteoarthritis of the lower leg                              
+Read                 N05z.11         Joint degeneration                                                              
+Read                 N05zB00         Osteoarthritis NOS, of acromioclavicular joint                                  
+Read                 N05z712         Foot osteoarthritis NOS                                                         
+Read                 N05z700         Osteoarthritis NOS, of ankle and foot                                           
+Read                 N05z411         Finger osteoarthritis NOS                                                       
+Read                 N05z311         Wrist osteoarthritis NOS                                                        
+Read                 N05zS00         Osteoarthritis NOS, of 1st MTP joint                                            
+Read                 N050z00         Generalised osteoarthritis NOS                                                  
+Read                 N05zE00         Osteoarthritis NOS, of wrist                                                    
+Read                 N05z713         Toe osteoarthritis NOS                                                          
+Read                 N05z211         Elbow osteoarthritis NOS                                                        
+Read                 N053600         Localised osteoarthritis, unspecified, of the lower leg                         
+Read                 N051500         Localised, primary osteoarthritis of the pelvic region/thigh                    
+Read                 N05zF00         Osteoarthritis NOS, of MCP joint                                                
+Read                 N05zH00         Osteoarthritis NOS, of DIP joint of finger                                      
+Read                 N051400         Localised, primary osteoarthritis of the hand                                   
+Read                 N053500         Localised osteoarthritis, unspecified, pelvic region/thigh                      
+Read                 N051700         Localised, primary osteoarthritis of the ankle and foot                         
+Read                 N051.00         Localised, primary osteoarthritis                                               
+Read                 N05zG00         Osteoarthritis NOS, of PIP joint of finger                                      
+Read                 N05z800         Osteoarthritis NOS, other specified site                                        
+Read                 N05zC00         Osteoarthritis NOS, of elbow                                                    
+Read                 N050700         Heberden's nodes with arthropathy                                               
+Read                 N053.00         Localised osteoarthritis, unspecified                                           
+Read                 N053100         Localised osteoarthritis, unspecified, of shoulder region                       
+Read                 N051100         Localised, primary osteoarthritis of the shoulder region                        
+Read                 N052600         Localised, secondary osteoarthritis of the lower leg                            
+Read                 N05z300         Osteoarthritis NOS, of the forearm                                              
+Read                 N053400         Localised osteoarthritis, unspecified, of the hand                              
+Read                 N051E00         Localised, primary osteoarthritis of toe                                        
+Read                 N051D00         Localised, primary osteoarthritis of the wrist                                  
+Read                 N051B00         Primary gonarthrosis, bilateral                                                 
+Read                 N05zA00         Osteoarthritis NOS, of sternoclavicular joint                                   
+Read                 N051800         Localised, primary osteoarthritis of other specified site                       
+Read                 N054.00         Oligoarticular osteoarthritis, unspecified                                      
+Read                 N052500         Localised, secondary osteoarthritis of pelvic region/thigh                      
+Read                 N053800         Localised osteoarthritis, unspecified, of other spec site                       
+Read                 N053z00         Localised osteoarthritis, unspecified, NOS                                      
+Read                 N050100         Generalised osteoarthritis of the hand                                          
+Read                 N053900         Arthrosis of first carpometacarpal joint, unspecified                           
+Read                 N051F00         Localised, primary osteoarthritis of elbow                                      
+Read                 N05z200         Osteoarthritis NOS, of the upper arm                                            
+Read                 N052.00         Localised, secondary osteoarthritis                                             
+Read                 N051C00         Primary arthrosis of first carpometacarpal joints, bilateral                    
+Read                 N050400         Primary generalized osteoarthrosis                                              
+Read                 N051900         Primary coxarthrosis, bilateral                                                 
+Read                 N05z000         Osteoarthritis NOS, of unspecified site                                         
+Read                 N052700         Localised, secondary osteoarthritis of the ankle and foot                       
+Read                 N051z00         Localised, primary osteoarthritis NOS                                           
+Read                 N050600         Erosive osteoarthrosis                                                          
+Read                 N050300         Bouchard's nodes with arthropathy                                               
+Read                 N05z711         Ankle osteoarthritis NOS                                                        
+Read                 N051300         Localised, primary osteoarthritis of the forearm                                
+Read                 N05zQ00         Osteoarthritis NOS, of talonavicular joint                                      
+Read                 N050000         Generalised osteoarthritis of unspecified site                                  
+Read                 N051200         Localised, primary osteoarthritis of the upper arm                              
+Read                 N05zK00         Osteoarthritis NOS, of sacro-iliac joint                                        
+Read                 N051000         Localised, primary osteoarthritis of unspecified site                           
+Read                 N05zU00         Osteoarthritis NOS, of IP joint of toe                                          
+Read                 N052400         Localised, secondary osteoarthritis of the hand                                 
+Read                 N050112         Bouchards' nodes                                                                
+Read                 N05zP00         Osteoarthritis NOS, of subtalar joint                                           
+Read                 N05zR00         Osteoarthritis NOS, of other tarsal joint                                       
+Read                 N050500         Secondary multiple arthrosis                                                    
+Read                 N052100         Localised, secondary osteoarthritis of the shoulder region                      
+Read                 N05zT00         Osteoarthritis NOS, of lesser MTP joint                                         
+Read                 N052800         Localised, secondary osteoarthritis of other specified site                     
+Read                 N052z00         Localised, secondary osteoarthritis NOS                                         
+Read                 N053300         Localised osteoarthritis, unspecified, of the forearm                           
+Read                 N053000         Localised osteoarthritis, unspecified, of unspecified site                      
+Read                 N054600         Oligoarticular osteoarthritis, unspecified, of lower leg                        
+Read                 N052300         Localised, secondary osteoarthritis of the forearm                              
+Read                 N054z00         Osteoarthritis of more than one site, unspecified, NOS                          
+Read                 N052200         Localised, secondary osteoarthritis of the upper arm                            
+Read                 N053511         Otto's pelvis                                                                   
+Read                 N054400         Oligoarticular osteoarthritis, unspecified, of hand                             
+Read                 N052C00         Post-traumatic gonarthrosis, unilateral                                         
+Read                 N054700         Oligoarticular osteoarthritis, unspecified, of ankle/foot                       
+Read                 N054000         Oligoarticular osteoarthritis, unspec, of unspecified sites                     
+Read                 N053200         Localised osteoarthritis, unspecified, of the upper arm                         
+Read                 N051A00         Coxarthrosis resulting from dysplasia, bilateral                                
+Read                 N054800         Oligoarticular osteoarthritis, unspecified, other spec sites                    
+Read                 N054900         Oligoarticular osteoarthritis, unspecified, multiple sites                      
+Read                 N052B00         Post-traumatic arthrosis of first carpometacarpal jt bilat                      
+Read                 N054500         Oligoarticular osteoarthritis, unspecified, of pelvis/thigh                     
+Read                 N052A00         Post-traumatic gonarthrosis, bilateral                                          
+Read                 N054100         Oligoarticular osteoarthritis, unspecified, of shoulder                         
+Read                 N05zD00         Osteoarthritis NOS, of distal radio-ulnar joint                                 
+Read                 N05zM00         Osteoarthritis NOS, of tibio-fibular joint                                      
+Read                 N052000         Localised, secondary osteoarthritis of unspecified site                         
+Read                 N052900         Post-traumatic coxarthrosis, bilateral                                          
+Read                 N054200         Oligoarticular osteoarthritis, unspecified, of upper arm                        
+Read                 N245.14         Hand pain                                                                       
+Read                 N245000         Hand pain                                                                       
+Read                 N094400         Arthralgia of the hand                                                          
+Read                 N06z400         Arthropathy NOS, of the hand                                                    
+Read                 N240700         Hand rheumatism                                                                 
+Read                 N066400         Unspecified monoarthritis of the hand                                           
+Read                 N09z400         Joint disorder NOS, of the hand                                                 
+Read                 N06..00         Other and unspecified arthropathies                                             
+Read                 N07..00         Internal derangement of knee                                                    
+Read                 N08..00         Other derangement of joint                                                      
+Read                 N09..00         Other and unspecified joint disorders                                           
+Read                 1M10.00         Knee pain                                                                       
+Read                 N094611         Knee joint pain                                                                 
+Read                 14G3.11         H/O: knee problem                                                               
+Read                 N094M00         Arthralgia of knee                                                              
+Read                 N094W00         Anterior knee pain                                                              
+Read                 N06z611         Knee arthritis NOS                                                              
+Read                 1M12.00         Anterior knee pain                                                              
+Read                 N225111         Rupture of Baker's cyst - knee                                                  
+Read                 N07z.00         Internal knee derangement NOS                                                   
+Read                 N072000         Old torn meniscus of knee                                                       
+Read                 N07y.11         Old capsular, collateral ligament and cruciate damage - knee                    
+ICD-10               M15.1           Heberden nodes (with arthropathy)                                               
+ICD-10               M15.2           Bouchard nodes (with arthropathy)                                               
+ICD-10               M180            Primary arthrosis of first carpometacarpal joints, bilateral                    
+ICD-10               M181            Other primary arthrosis of first carpometacarpal joint                          
+ICD-10               M185            Other secondary arthrosis of first carpometacarpal joint                        
+ICD-10               M189            Arthrosis of first carpometacarpal joint, unspecified                           
+ICD-10               M70.0           Chronic crepitant synovitis of hand and wrist                                   
+Read                 XM1NQ           Osteoarthritis of metacarpophalangeal joint                                     
+Read                 X76rh           Small joint arthritis                                                           
+Read                 X76ri           Large joint arthritis                                                           
+Read                 X76rj           Small and large joint arthritis                                                 
+Read                 X76rk           Lower limb joint arthritis                                                      
+Read                 X76re           Arthritis by pattern of joint involvement                                       
+Read                 N06z1           Shoulder arthritis NOS                                                          
+Read                 XaYQD           Patellofemoral osteoarthritis                                                   
+Read                 N06z4           Hand arthritis NOS                                                              
+Read                 N054z           Osteoarthritis of more than one site, unspecified, NOS                          
+Read                 N0510           Localised, primary osteoarthritis of unspecified site                           
+Read                 N0513           Localised, primary osteoarthritis of the forearm                                
+Read                 N0512           Localised, primary osteoarthritis of the upper arm                              
+Read                 X703G           Osteoarthritis of finger joint                                                  
+Read                 N053z           Localised osteoarthritis, unspecified, NOS                                      
+Read                 N0542           Oligoarticular osteoarthritis, unspecified, of upper arm                        
+Read                 XaEGf           Localised, primary osteoarthritis of elbow                                      
+Read                 XaEGd           Localised, primary osteoarthritis of the wrist                                  
+Read                 XaBmY           Osteoarthritis of foot joint                                                    
+Read                 Xa3gS           Osteoarthritis - other joint                                                    
+Read                 N0532           Localised osteoarthritis, unspecified, of the upper arm                         
+Read                 N0537           Localised osteoarthritis, unspecified, of the ankle and foot                    
+Read                 N0536           Osteoarthritis: [localised of the lower leg, unspecified] or [patellofemoral]   
+Read                 X7038           Idiopathic osteoarthritis                                                       
+Read                 XaEGe           Localised, primary osteoarthritis of toe                                        
+Read                 Xa3gQ           Osteoarthritis - hand joint                                                     
+Read                 Xa3gR           Osteoarthritis - ankle/foot                                                     
+Read                 X704R           Endemic osteoarthritis                                                          
+Read                 X7031           Ankle osteoarthritis NOS                                                        
+Read                 X7030           Foot osteoarthritis NOS                                                         
+Read                 X7035           Finger osteoarthritis NOS                                                       
+Read                 X7034           Thumb osteoarthritis NOS                                                        
+Read                 XE1Df           Osteoarthritis NOS, of the lower leg                                            
+Read                 N0514           Localised, primary osteoarthritis of the hand                                   
+Read                 X703I           Osteoarthritis of proximal interphalangeal joint                                
+Read                 X703H           Osteoarthritis of distal interphalangeal joint                                  
+Read                 X703K           Osteoarthritis of hip                                                           
+Read                 X703M           Osteoarthritis of ankle                                                         
+Read                 X703L           Osteoarthritis of knee                                                          
+Read                 X703O           Osteoarthritis of first metatarsalphalangeal joint                              
+Read                 X703N           Osteoarthritis of subtalar joint                                                
+Read                 XE1Gm           Osteoarthritis -multiple joint                                                  
+Read                 N050.           Generalised osteoarthritis                                                      
+Read                 N0506           Erosive osteoarthrosis                                                          
+Read                 N0507           Heberden's nodes with arthropathy                                               
+Read                 X703J           Osteoarthritis of metacarpophalangeal joint of finger                           
+Read                 N0502           Generalised osteoarthritis of multiple sites                                    
+Read                 N0500           Generalised osteoarthritis of unspecified site                                  
+Read                 N0501           (Heberden's nodes) or (Bouchard's nodes) or (generalised osteoarthritis of the hand)
+Read                 X7041           Localised osteoarthritis                                                        
+Read                 XM0Ai           Arthritis                                                                       
+Read                 X703E           Osteoarthritis of wrist                                                         
+Read                 X703F           Osteoarthritis of first carpometacarpal joint                                   
+Read                 N050z           Generalised osteoarthritis NOS                                                  
+Read                 N051z           Localised, primary osteoarthritis NOS                                           
+Read                 N0525           (Localised secondary osteoarthritis of the pelvic region and thigh) or (coxae malum senilis)
+Read                 X7043           Coxae malum senilis                                                             
+Read                 X703Q           Secondary osteoarthritis                                                        
+Read                 N05z6           Osteoarthritis NOS: [lower leg] or [knee]                                       
+Read                 N05z1           Osteoarthritis NOS, of shoulder region                                          
+Read                 X703P           Osteoarthritis of toe joint                                                     
+Read                 N05z3           Osteoarthritis NOS: [of the forearm] or [wrist]                                 
+Read                 N0522           Localised, secondary osteoarthritis of the upper arm                            
+Read                 XaIna           Exacerbation of osteoarthritis                                                  
+Read                 N05..           Osteoarthritis (& [allied disorders])                                           
+Read                 N0523           Localised, secondary osteoarthritis of the forearm                              
+Read                 N051.           Localised, primary osteoarthritis                                               
+Read                 N0515           Localised, primary osteoarthritis of the pelvic region and thigh                
+Read                 N052.           Localised, secondary osteoarthritis                                             
+Read                 N053.           Localised osteoarthritis, unspecified                                           
+Read                 N0518           Localised, primary osteoarthritis of other specified site                       
+Read                 N0524           Localised, secondary osteoarthritis of the hand                                 
+Read                 N0528           Localised, secondary osteoarthritis of other specified site                     
+Read                 N0526           Localised, secondary osteoarthritis of the lower leg                            
+Read                 N0527           Localised, secondary osteoarthritis of the ankle and foot                       
+Read                 N0520           Localised, secondary osteoarthritis of unspecified site                         
+Read                 N0521           Localised, secondary osteoarthritis of the shoulder region                      
+Read                 N052z           Localised, secondary osteoarthritis NOS                                         
+Read                 X703C           Osteoarthritis of acromioclavicular joint                                       
+Read                 N051C           Primary arthrosis of first carpometacarpal joints, bilateral                    
+Read                 XM0u9           Arthritis/arthrosis                                                             
+Read                 N05zE           Osteoarthritis NOS, of wrist                                                    
+Read                 N05zF           Osteoarthritis NOS, of metacarpophalangeal joint                                
+Read                 X703B           Osteoarthritis of shoulder joint                                                
+Read                 N05zA           Osteoarthritis NOS, of sternoclavicular joint                                   
+Read                 N05zB           Osteoarthritis NOS, of acromioclavicular joint                                  
+Read                 N05zM           Osteoarthritis NOS, of tibiofibular joint                                       
+Read                 N05zN           Osteoarthritis NOS, of ankle                                                    
+Read                 N05zH           Osteoarthritis NOS, of distal interphalangeal joint of finger                   
+Read                 N05zJ           Osteoarthritis NOS, of hip                                                      
+Read                 N05zK           Osteoarthritis NOS, of sacroiliac joint                                         
+Read                 N05zT           Osteoarthritis NOS, of lesser metatarsophalangeal joint                         
+Read                 N05zU           Osteoarthritis NOS, of interphalangeal joint of toe                             
+Read                 N05zP           Osteoarthritis NOS, of subtalar joint                                           
+Read                 N05zR           Osteoarthritis NOS, of other tarsal joint                                       
+Read                 N05zS           Osteoarthritis NOS, of 1st metatarsophalangeal joint                            
+Read                 N05z.           [Joint degeneration] or [osteoarthritis NOS]                                    
+Read                 N05z4           Osteoarthritis NOS: [hand] or [finger] or [thumb]                               
+Read                 N05z5           Osteoarthritis NOS: [pelvic region and/or thigh] or [hip]                       
+Read                 N05z7           Osteoarthritis NOS: [ankle &/or foot] or [toe]                                  
+Read                 N05z0           Osteoarthritis NOS, of unspecified site                                         
+Read                 N05z2           Osteoarthritis NOS: [of the upper arm] or [elbow]                               
+Read                 N05z8           Osteoarthritis NOS, other specified site                                        
+Read                 N05z9           Osteoarthritis NOS, of shoulder                                                 
+Read                 X703D           Osteoarthritis of elbow                                                         
+Read                 N0511           Localised, primary osteoarthritis of the shoulder region                        
+Read                 X702z           Toe osteoarthritis NOS                                                          
+Read                 N0517           Localised, primary osteoarthritis of the ankle and foot                         
+Read                 N0516           Localised, primary osteoarthritis of the lower leg                              
+Read                 XE1Dd           Osteoarthritis NOS, of the hand                                                 
+Read                 N05zD           Osteoarthritis NOS, of distal radioulnar joint                                  
+Read                 N05zG           Osteoarthritis NOS, of proximal interphalangeal joint of finger                 
+Read                 N05zC           Osteoarthritis NOS, of elbow                                                    
+Read                 N0533           Localised osteoarthritis, unspecified, of the forearm                           
+Read                 N05zL           Osteoarthritis NOS, of knee                                                     
+Read                 N0531           Localised osteoarthritis, unspecified, of the shoulder region                   
+Read                 N0530           Localised osteoarthritis, unspecified, of unspecified site                      
+Read                 N0535           (Otto's pelvis) or (hip osteoarthitis NOS) or (localised osteoarthritis, unspecified, of the pelvic region and thigh)
+Read                 N0534           Localised osteoarthritis, unspecified, of the hand                              
+Read                 N0539           Arthrosis of first carpometacarpal joint, unspecified                           
+Read                 N0538           Localised osteoarthritis, unspecified, of other specified site                  
+Read                 N06zB           Chronic arthritis                                                               
+Read                 N05zQ           Osteoarthritis NOS, of talonavicular joint                                      
+Read                 XE1DW           Generalised osteoarthritis of the hand                                          
+Read                 XE1DV           Degenerative arthritis                                                          
+Read                 XE1DZ           Localised osteoarthritis, unspecified, of the lower leg                         
+Read                 XE1DY           Localised osteoarthritis, unspecified, of the pelvic region and thigh           
+Read                 XE1DX           Localised, secondary osteoarthritis of the pelvic region and thigh              
+Read                 XE1Dg           Osteoarthritis NOS, of ankle and foot                                           
+Read                 XE1De           Osteoarthritis NOS, pelvic region/thigh                                         
+Read                 XE1Dc           Osteoarthritis NOS, of the forearm                                              
+Read                 XE1Db           Osteoarthritis NOS, of the upper arm                                            
+Read                 XE1Da           Osteoarthritis NOS                                                              
+Read                 N0946           Arthralgia of the lower leg (& [knee])                                          
+Read                 N0947           Arthralgia of the ankle &/or foot                                               
+Read                 N0944           Hand joint pain                                                                 
+Read                 Xa7Bq           Knee joint - painful on movement                                                
+Read                 Xa0yH           Metatarsophalangeal joint pain                                                  
+Read                 Xa0yG           Foot joint pain                                                                 
+Read                 Xa7Af           Hip joint painful on movement                                                   
+Read                 X75rv           Hip joint pain                                                                  
+Read                 J0464           Temporomandibular joint pain dysfunction syndrome                               
+Read                 Xa6vL           Temporomandibular joint painful on movement                                     
+Read                 Xa7Ex           Subtalar joint - painful on movement                                            
+Read                 N094V           Interphalangeal joint of toe pain                                               
+Read                 N094T           First metatarsophalangeal joint pain                                            
+Read                 N094R           Talonavicular joint pain                                                        
+Read                 N094S           Arthralgia of other tarsal joint                                                
+Read                 N094Q           Subtalar joint pain                                                             
+Read                 Xa77U           Finger joint painful on movement                                                
+Read                 Xa7GF           Toe joint painful on movement                                                   
+Read                 Xa7EJ           Foot joint - painful on movement                                                
+Read                 N094G           Metacarpophalangeal joint pain                                                  
+Read                 N094E           Distal radioulnar joint pain                                                    
+Read                 N094B           Sternoclavicular joint pain                                                     
+Read                 N094C           Acromioclavicular joint pain                                                    
+Read                 N094N           Tibiofibular joint pain                                                         
+Read                 N094M           Knee joint pain                                                                 
+Read                 N094J           Distal interphalangeal joint of finger pain                                     
+Read                 N094H           Proximal interphalangeal joint of finger pain                                   
+Read                 2G26.           O/E - hands - Heberden's nodes                                                  
+Read                 N0503           Bouchard's nodes with arthropathy                                               
+Read                 N0504           Idiopathic osteoarthritis                                                       
+Read                 N0519           Primary coxarthrosis, bilateral                                                 
+Read                 N0529           Post-traumatic coxarthrosis, bilateral                                          
+Read                 N054.           Oligoarticular osteoarthritis, unspecified                                      
+Read                 N0540           Oligoarticular osteoarthritis, unspec, of unspecified sites                     
+Read                 N0541           Oligoarticular osteoarthritis, unspecified, of shoulder                         
+Read                 N0543           Oligoarticular osteoarthritis, unspecified, of forearm                          
+Read                 N0544           Oligoarticular osteoarthritis, unspecified, of hand                             
+Read                 N0545           Oligoarticular osteoarthritis, unspecified, of pelvis/thigh                     
+Read                 N0546           Oligoarticular osteoarthritis, unspecified, of lower leg                        
+Read                 N0547           Oligoarticular osteoarthritis, unspecified, of ankle/foot                       
+Read                 N0548           Oligoarticular osteoarthritis, unspecified, other spec sites                    
+Read                 N0549           Oligoarticular osteoarthritis, unspecified, multiple sites                      
+Read                 N05zz           Osteoarthritis NOS                                                              
+Read                 X7038           Idiopathic osteoarthritis                                                       
+Read                 X7042           Otto's pelvis                                                                   
+Read                 X76G5           Bouchard's node                                                                 
+Read                 XM05w           Heberden's node                                                                 
+Read                 XM1NQ           Osteoarthritis of metacarpophalangeal joint                                     
+Read                 XaBzh           O/E - Heberden's nodes                                                          
+Read                 XaLsk           Delivery of rehabilitation for osteoarthritis                                   

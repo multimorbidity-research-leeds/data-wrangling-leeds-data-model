@@ -1,0 +1,36 @@
+Coding System        Code            Condition                                                                       
+==========================================================================================
+ICD-10               G56.0           Carpal tunnel syndrome                                                          
+Read                 N0942           Arthralgia of the upper arm (& [elbow])                                         
+Read                 N0943           Arthralgia of the forearm (& [wrist])                                           
+Read                 N0940           Arthralgia of unspecified site                                                  
+Read                 N0941           Arthralgia of the shoulder region (& [shoulder joint])                          
+Read                 X75sL           End of painful arc                                                              
+Read                 XE1EY           Joint pain                                                                      
+Read                 XE1EZ           Shoulder joint pain                                                             
+Read                 X75sH           Range of painful joint movement                                                 
+Read                 X75sI           Arc of pain in joint                                                            
+Read                 N0948           Arthralgia of other specified site                                              
+Read                 X75sK           Beginning of painful arc                                                        
+Read                 N094.           Joint: [pain - arthralgia] or [ache]                                            
+Read                 Xa73D           Shoulder joint painful on movement                                              
+Read                 Xa73E           Shoulder joint - painful arc                                                    
+Read                 N094F           Wrist joint pain                                                                
+Read                 XE1H8           Joint pain: [shoulder] or [acromioclavicular]                                   
+Read                 Xa7DC           Ankle joint - painful on movement                                               
+Read                 Xa6sR           Pain on joint movement                                                          
+Read                 N094z           Arthralgia NOS                                                                  
+Read                 XE1Ea           Arthralgia of the upper arm                                                     
+Read                 XE1Eb           Arthralgia of the forearm                                                       
+Read                 XE1Ec           Arthralgia of the pelvic region and thigh                                       
+Read                 XE1Ed           Arthralgia of the lower leg                                                     
+Read                 XE1Ee           Arthralgia of the ankle and foot                                                
+Read                 Xa74O           Elbow joint - painful on movement                                               
+Read                 XaXlN           H/O multiple joint pain                                                         
+Read                 2H45.           O/E - joint movement painful                                                    
+Read                 Xa75r           Wrist joint painful on movement                                                 
+Read                 Xa78u           Thumb joint painful on movement                                                 
+Read                 N0949           Multiple joint pain                                                             
+Read                 N094U           Lesser metatarsophalangeal joint pain                                           
+Read                 N094P           Ankle joint pain                                                                
+Read                 N094D           Elbow joint pain                                                                
